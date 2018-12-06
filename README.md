@@ -1,0 +1,2 @@
+# HIVE
+Node swarming orchestrator
